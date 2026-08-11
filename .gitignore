@@ -1,0 +1,6 @@
+# Time_Card
+__pycache__/
+*.pyc
+*.pyo
+.time_card.jsonl
+.DS_Store
