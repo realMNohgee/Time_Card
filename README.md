@@ -1,4 +1,5 @@
 # Time_Card
+![CI](https://github.com/realMNohgee/Time_Card/actions/workflows/ci.yml/badge.svg) ![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg) ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 **Worklog tracker.** Clock in/out, tag projects, weekly summaries, CSV export.  
 Zero dependencies — Python stdlib only.
